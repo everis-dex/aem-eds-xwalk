@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/ntt-data-eds-xwalk/:/",
-    "/content/ntt-data-eds-xwalk/configuration:/.helix/config.json",
-    "/content/ntt-data-eds-xwalk/metadata:/metadata.json"
+    "/content/ntt-data-edge-delivery-services-xwalk/:/",
+    "/content/ntt-data-edge-delivery-services-xwalk/configuration:/.helix/config.json",
+    "/content/ntt-data-edge-delivery-services-xwalk/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/ntt-data-eds-xwalk/"
+    "/content/ntt-data-edge-delivery-services-xwalk/"
   ]
 }
